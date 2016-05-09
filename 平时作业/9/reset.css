@@ -1,0 +1,44 @@
+body {
+    background-color: #FFF1E0;
+}
+
+.clearfix:befor,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+
+#wrap {
+    margin: 0 auto;
+    height: 90px;
+    width: 970px;
+}
+
+.top-ad {
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+#nav {
+    border-bottom: 10px #9E2F50 solid;
+}
+
+#nav p {
+    color: #A7A59B;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+#nav img {
+    display: block;
+    width: 172px;
+    height: 36px;
+    float: left;
+}
+
+#nav h1 {
+    font-family: 黑体;
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
